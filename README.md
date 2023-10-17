@@ -1,7 +1,7 @@
 # Dados de sífilis adquirida, sífilis em gestantes e sífilis congênita
 
 O banco de dados de sífilis contempla o registro de casos de sífilis adquirida, em gestantes e congênita inseridos no Sistema de Informação de Agravos de Notificação (Sinan) que é alimentado pelas unidades de saúde, com informações sobre doenças e agravos, incluídos na lista nacional de doenças de notificação compulsória. O Sinan coleta, transmite e dissemina os dados gerados rotineiramente pelo Sistema de Vigilância Epidemiológica das três esferas de governo, por intermédio de uma rede informatizada.
-Para fins de notificação, são critérios de definição de caso para sífilis, conforme orientações da NOTA INFORMATIVA Nº 10/2022-CGAHV/.DCCI/SVS/MS:
+Para fins de notificação, são critérios de definição de caso para sífilis, conforme orientações da [NOTA INFORMATIVA Nº 10/2022-CGAHV/.DCCI/SVS/MS](https://www.saude.df.gov.br/documents/37101/0/Nota_Informativa_10-2022___Sifilis_13.05+nota+Tecnica+MS.pdf/bb51f424-e674-1e92-83b3-5f50bdee77f4?t=1683890523022):
 
 ## SÍFILIS ADQUIRIDA: 
 
@@ -20,7 +20,7 @@ Para fins de notificação, são critérios de definição de caso para sífilis
 * Situação 2: toda criança com menos de 13 anos de idade com pelo menos uma das seguintes situações: teste não treponêmico reagente e sinais e sintomas; titulação do VDRL superior aos da mãe em pelo menos duas diluições; titulação do VDRL superior em pelo menos duas diluições no seguimento da criança exposta; VDRL reagente após 6 meses de idade; TT reagente após 18 meses de idade sem diagnóstico prévio de SC; 
 * Situação 3: evidência do Treponema pallidum em amostra nasal ou lesão cutânea, biópsia ou necropsia de criança, aborto ou natimorto.
 
-Os dados foram extraídos do Sinan por meio do tabulador de informações em saúde Tabnet, com a seleção dos casos de sífilis adquirida, sífilis em gestante e sífilis congênita no período de 2010 a 2022.
+Os dados foram extraídos do Sinan por meio do tabulador de informações em saúde [Tabnet](http://vigilancia.saude.mg.gov.br/index.php/informacoes-de-saude/informacoes-de-saude-tabnet-mg/), com a seleção dos casos de sífilis adquirida, sífilis em gestante e sífilis congênita no período de 2010 a 2022.
 
 ## ATUALIZAÇÃO DOS DADOS
 
