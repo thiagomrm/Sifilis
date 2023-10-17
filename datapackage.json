@@ -1,6 +1,6 @@
 {
-    "name": "dados_doencas_cronicas_ses",
-    "title": "Doenças Crônicas não Transmissíveis",
+    "name": "dados_sifilis_ses",
+    "title": "Sífilis",
     "owner_org": "secretaria-de-estado-de-saude-ses",
     "frequência de atualização": "mensal",
     "version": "0.1.0",
