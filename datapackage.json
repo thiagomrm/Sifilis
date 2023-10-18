@@ -153,7 +153,7 @@
       {
         "path": "data/dados_sifilis_congenita.csv",
         "title": "Dados de Sífilis Congenita",
-        "name": "dados_sifilis_adquirida",
+        "name": "dados_sifilis_congenita",
         "owner_org": "secretaria-de-estado-de-saude-ses",
         "profile": "tabular-data-resource",
         "scheme": "file",
