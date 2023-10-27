@@ -1,5 +1,3 @@
-# Dados de Sífilis
-
 O banco de dados de sífilis contempla o registro de casos de sífilis adquirida, em gestantes e congênita inseridos no Sistema de Informação de Agravos de Notificação (Sinan) que é alimentado pelas unidades de saúde, com informações sobre doenças e agravos, incluídos na lista nacional de doenças de notificação compulsória. O Sinan coleta, transmite e dissemina os dados gerados rotineiramente pelo Sistema de Vigilância Epidemiológica das três esferas de governo, por intermédio de uma rede informatizada.
 
 Para fins de notificação, são [critérios de definição de caso para sífilis](https://www.saude.df.gov.br/documents/37101/0/Nota_Informativa_10-2022___Sifilis_13.05+nota+Tecnica+MS.pdf/bb51f424-e674-1e92-83b3-5f50bdee77f4?t=1683890523022):
