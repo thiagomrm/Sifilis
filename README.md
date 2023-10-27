@@ -2,18 +2,18 @@ O banco de dados de sífilis contempla o registro de casos de sífilis adquirida
 
 Para fins de notificação, são [critérios de definição de caso para sífilis](https://www.saude.df.gov.br/documents/37101/0/Nota_Informativa_10-2022___Sifilis_13.05+nota+Tecnica+MS.pdf/bb51f424-e674-1e92-83b3-5f50bdee77f4?t=1683890523022):
 
-## SÍFILIS ADQUIRIDA: 
+### SÍFILIS ADQUIRIDA: 
 
 * Situação 1: Indivíduo assintomático, com teste não treponêmico (TNT) reagente com qualquer titulação e teste treponêmico (TT) reagente e sem registro de tratamento prévio;
 * Situação 2: Indivíduo sintomático para sífilis, com pelo menos um teste reagente (treponêmico ou não treponêmico), com qualquer titulação.
 
-## SÍFILIS EM GESTANTE:
+### SÍFILIS EM GESTANTE:
 
 * Situação 1: mulher assintomática que durante o pré-natal, parto ou puerpério com pelo menos um TT ou TNT reagente com qualquer titulação sem registro de tratamento prévio;
 * Situação 2: mulher assintomática que durante o pré-natal, parto ou puerpério com pelo menos um TT ou TNT reagente com qualquer titulação; 
 * Situação 3: mulher assintomática que durante o pré-natal, parto ou puerpério apresente TT reagente e TNT reagente com qualquer titulação, independente de registro de tratamento prévio.
 
-## SÍFILIS CONGÊNITA:
+### SÍFILIS CONGÊNITA:
 
 * Situação 1: todo recém-nascido (RN), natimorto ou aborto de mulher com sífilis não tratada ou tratada de forma inadequada (tratamento iniciado a menos de 30 dias antes do parto); 
 * Situação 2: toda criança com menos de 13 anos de idade com pelo menos uma das seguintes situações: teste não treponêmico reagente e sinais e sintomas; titulação do VDRL (Venereal Disease Research Laboratory) superior aos da mãe em pelo menos duas diluições; titulação do VDRL superior em pelo menos duas diluições no seguimento da criança exposta; VDRL reagente após 6 meses de idade; TT reagente após 18 meses de idade sem diagnóstico prévio de sífilis congênita; 
